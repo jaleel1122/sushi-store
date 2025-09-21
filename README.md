@@ -1,4 +1,4 @@
-# 🍣 SushiStore
+# 🍣 Sushi Store
 
 A sleek and modern **Sushi Store** website built using **HTML** and **CSS**.  
 This project focuses on clean code practices, reusable CSS, and smooth animations to create an elegant and interactive user experience.
@@ -6,7 +6,7 @@ This project focuses on clean code practices, reusable CSS, and smooth animation
 ---
 
 ## 🔗 Live Demo
-https://streamix1.netlify.app/
+https://sushistorewebsite.netlify.app
 
 
 ---
